@@ -1,5 +1,5 @@
 Hi, I’m Viper!
-- I’m interested in ...
+- I’m interested in modding S.T.A.L.K.E.R.
 - I’m currently learning:
   - HTML + CSS
   - JS
@@ -7,5 +7,3 @@ Hi, I’m Viper!
   - C#
   - SQL
   - Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
